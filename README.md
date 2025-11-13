@@ -3,6 +3,11 @@
 A full-stack **MERN (MongoDB, Express, React, Node.js)** web application for managing products with image uploads.  
 The app supports creating, editing, and deleting product entries and is fully responsive across desktop and mobile layouts.
 
+<img width="1346" height="887" alt="Screenshot 2025-11-13 at 2 52 09 PM" src="https://github.com/user-attachments/assets/dba01ed8-71e3-4ad4-be5c-840374bba7a3" />
+<img width="1241" height="543" alt="Screenshot 2025-11-13 at 2 52 31 PM" src="https://github.com/user-attachments/assets/b700edcf-43da-4eab-a9d7-df866143be0e" />
+
+
+
 🔗 **Live Demo:** [https://product-site-fvb5.onrender.com](https://product-site-fvb5.onrender.com)
 
 ---
