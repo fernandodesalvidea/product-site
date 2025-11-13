@@ -43,15 +43,3 @@ Light/Dark mode toggle.
 **Database:** MongoDB (Mongoose ODM)  
 **Image Handling:** Multer (or equivalent upload middleware)  
 **Deployment:** Render.com  
-
----
-
-## ⚙️ Getting Started
-
-### Prerequisites
-- Node.js (v14+)
-- MongoDB (local instance or cloud)
-- `.env` file with:
-  ```bash
-  MONGO_URI=your_mongo_connection_string
-  PORT=5000
